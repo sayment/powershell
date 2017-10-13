@@ -1,7 +1,9 @@
 # powershell
 
 Powershell'de 
+
 iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/sayment/powershell/master/powershell.ps1')
+
 komutunu vererek kodları diskinize yükelemeden RAM'de çalıştırabilirsiniz. 
 
 Program çalıştığında sistemden çekmek istediğiniz bilgileri soracaktır. Aşağıdaki menüdeki seçeneklerden istediğiniz seçenek ile ilişkili sayıyı girerek bilgilere ulaşabilirsiniz. 
