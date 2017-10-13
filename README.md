@@ -6,7 +6,7 @@ iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com
 
 komutunu vererek kodları diskinize yükelemeden RAM'de çalıştırabilirsiniz. 
 
-Program çalıştığında sistemden çekmek istediğiniz bilgileri soracaktır. Aşağıdaki menüdeki seçeneklerden istediğiniz seçenek ile ilişkili sayıyı girerek bilgilere ulaşabilirsiniz. 
+Program çalıştığında sistemden çekmek istediğiniz bilgileri soracaktır. Menüdeki seçeneklerden herhangi biri ile ilişkili sayıyı girerek bilgilere ulaşabilirsiniz. 
 
 1- CPU Bilgisi
 2- İşletim Sistemi Bilgisi
